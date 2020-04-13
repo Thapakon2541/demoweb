@@ -9,3 +9,4 @@ echo "My second page PHP script!";
 </body>
 </html>
 </html>
+/**GG */
