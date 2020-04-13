@@ -21,4 +21,4 @@ var_dump(is_numeric($x));
 </body>
 </html>
 </html>
-/**GGG22 */
+/**GGGGG2222 */
