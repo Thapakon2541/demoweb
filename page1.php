@@ -13,4 +13,4 @@ var_dump(is_int($x));
 </body>
 </html>
 </html>
-gggggggggggg
+ggggg
